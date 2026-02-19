@@ -14,10 +14,10 @@ This project is a real-time computer vision application built with **Python**, *
 
 ## Dependencies
 
-### 1. Still can't distinguish objects from images or screens
-   There is still a bug where it can detect animals from images or screens.
-### 2. Imperfect object detection
-   There are still bugs in detecting objects and sensitive detection systems.
+### 1. Person placement must be straight
+   If someone is not standing level facing the camera the calculation can be wrong.
+### 2. Strict grease detector
+   The program is designed strictly at a hip width of 0.60, even though it should be more than 0.65 to be considered fat. This design is deliberately made strict for people who want to diet.
 ### 3. Library
 To run this project, you need Python installed along with the following libraries:
 
