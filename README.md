@@ -21,7 +21,7 @@ This project is a real-time computer vision application built with **Python**, *
 ### 3. Library
 To run this project, you need Python installed along with the following libraries:
 
-* opencv-pyhton
+* opencv-python
 * numpy<2.0.0,>=1.26.0
 * gTTS
 * pygame
