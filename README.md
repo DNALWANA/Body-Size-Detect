@@ -3,7 +3,7 @@ This project is a real-time computer vision application built with **Python**, *
 ## Key Features
 
 * **Real-time Detections:** Identify people and determine their categories.
-* **Two Different Category:** Can differentiate operson seen based on two category, "Gemuk" (Overweight) and "Ideal" (Ideal).
+* **Two Different Category:** Can differentiate a person seen based on two category, "Gemuk" (Overweight) and "Ideal" (Ideal).
 * **Obesity Detector:** Assist in rapid camera-based obesity category screening.
 
 ## Screenshots
@@ -12,7 +12,7 @@ This project is a real-time computer vision application built with **Python**, *
 | :---: | :---: |
 | ![Gemuk exp](./assets/Screenshot%20from%202026-01-23%2022-02-52.png) | ![Ideal exp](./assets/Screenshot%20from%202026-01-23%2022-05-07.png) | 
 
-## Dependencies
+## Limitations
 
 ### 1. Person placement must be straight
    If someone is not standing level facing the camera the calculation can be wrong.
